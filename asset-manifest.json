@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/DeliverySystemReact/static/css/main.ec2e7648.css",
+    "main.js": "/DeliverySystemReact/static/js/main.ae86f723.js",
+    "static/media/background.jpg": "/DeliverySystemReact/static/media/background.f71d0363fcc08b6125aa.jpg",
+    "index.html": "/DeliverySystemReact/index.html",
+    "main.ec2e7648.css.map": "/DeliverySystemReact/static/css/main.ec2e7648.css.map",
+    "main.ae86f723.js.map": "/DeliverySystemReact/static/js/main.ae86f723.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec2e7648.css",
+    "static/js/main.ae86f723.js"
+  ]
+}
